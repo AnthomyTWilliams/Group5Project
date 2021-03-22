@@ -52,7 +52,7 @@ body {
 
 .banner {grid-area: banner;}
 
-.menu {grid-area: menu;}
+.pagemenu {grid-area: menu;}
 
 nav {grid-area: nav;}
 
@@ -60,9 +60,15 @@ table {grid-area: table;}
 
 main {grid-area: main;}
 
+article {
+}
+
 aside	{grid-area: aside;}
 
 footer {grid-area: footer;}
+
+header{
+}
 
 /* -menu-page- */
 .pagemenu {
