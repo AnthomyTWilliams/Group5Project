@@ -41,7 +41,7 @@ body {
 
  @media (min-width: 60em) {
   #wrapper {
-    grid-template-columns: 2fr 3fr 2fr;
+    grid-template-columns: 2fr 5fr 2fr;
     grid-template-areas: 
       "banner  banner  banner"
       "nav  menu  aside"
