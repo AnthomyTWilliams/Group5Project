@@ -1,9 +1,9 @@
 body {
     background-color: #000 ;
-    font-family: ;
-    color: ;
-    font-size: ;
-    line-height: ;
+    font-family:Verdana, Geneva, sans-serif;
+    color: #fff ;
+    font-size: 16px;
+    line-height: 20px;
 }
 /* -pagelayout- */
 #wrapper {
@@ -103,24 +103,24 @@ footer {grid-area: footer;}
 /* -headings- */
 h1 {
     font-family: Verdana, Geneva, sans-serif;
-    background-color: ;
-    color: ;
-    font-size: ;
-    line-height: ;
+    background-color: #000;
+    color: #fff;
+    font-size: 16px;
+    line-height: 10px;
 }
 h2 {
     font-family: Verdana, Geneva, sans-serif;
-    background-color: ;
-    color: ;
-    font-size: ;
-    line-height: ;
+    background-color: #000;
+    color: #fff;
+    font-size: 16px;
+    line-height: 10px;
 }
 h3 {
     font-family: Verdana, Geneva, sans-serif;
-    background-color: ;
-    color: ;
-    font-size: ;
-    line-height: ;
+    background-color: #000;
+    color: #fff;
+    font-size: 16px;
+    line-height: 10px;
 }
 /* -lists- */
 ul	{
