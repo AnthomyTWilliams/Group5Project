@@ -117,7 +117,7 @@ h1 {
 }
 h2 {
     font-family: Verdana, Geneva, sans-serif;
-    background-color: #000;
+    background-color: #4d4d4d;
     color: #cc0000;
     font-size: 20px;
     line-height: 10px;
@@ -136,6 +136,7 @@ blockquote  {
 }
 /* -lists- */
 ul	{
+    padding-bottom: 10px;
 }
 li	{
 }
@@ -166,8 +167,4 @@ a:hover {
 }
 a:active {
     background-color: #333;
-}
-/* -spacers- */
-.space a {
-    padding-top: 10px;
 }
