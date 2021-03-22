@@ -69,6 +69,7 @@ aside	{grid-area: aside;}
 footer {grid-area: footer;}
 
 header{
+    line-height: 5px;
 }
 
 /* -menu-page- */
