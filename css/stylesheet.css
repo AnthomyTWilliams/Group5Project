@@ -1,1 +1,60 @@
-test
+body {
+
+}
+#wrapper {
+    max-width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #222930;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+      display: grid;
+  grid-gap: 20px;
+  grid-template-areas:
+   "banner"
+   "menu"
+   "nav"
+   "table"
+   "main"
+   "aside"
+   "footer";
+}
+
+@media (min-width: 50em) {
+  #wrapper {
+    grid-template-columns: 1fr 2fr;
+    grid-template-areas: 
+      "banner  banner"
+      "menu  menu"
+      "nav  main"
+      "aside  main"
+      "footer  footer";
+  }
+}
+
+ @media (min-width: 60em) {
+  #wrapper {
+    grid-template-columns: 2fr 3fr 2fr;
+    grid-template-areas: 
+      "banner  banner  banner"
+      "nav  menu  aside"
+      "nav  table  aside"
+      "nav  main  aside"
+      "footer  footer  footer";
+   }
+}
+
+.banner {grid-area: banner;}
+
+.menu {grid-area: menu;}
+
+nav {grid-area: nav;}
+
+table {grid-area: table;}
+
+main {grid-area: main;}
+
+aside	{grid-area: aside;}
+
+footer {grid-area: footer;}
