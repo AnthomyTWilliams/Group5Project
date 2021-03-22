@@ -1,6 +1,7 @@
 body {
 
 }
+/* -pagelayout- */
 #wrapper {
     max-width: 1000px;
     margin-right: auto;
@@ -58,3 +59,26 @@ main {grid-area: main;}
 aside	{grid-area: aside;}
 
 footer {grid-area: footer;}
+
+/* -headings- */
+h1 {
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: ;
+    color: ;
+    font-size: ;
+    line-height: ;
+}
+h2 {
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: ;
+    color: ;
+    font-size: ;
+    line-height: ;
+}
+h3 {
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: ;
+    color: ;
+    font-size: ;
+    line-height: ;
+}
