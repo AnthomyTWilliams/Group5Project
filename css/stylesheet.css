@@ -169,6 +169,9 @@ figcaption	{
 }
 img	{
 }
+.headerImageAlign {
+    padding-right: 50px;
+}
 /* -anchors- */
 a:link	{
     color: #0090D2;
