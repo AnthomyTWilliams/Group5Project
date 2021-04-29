@@ -188,6 +188,7 @@ a:active {
 .headerImage {
     position: relative;
     display: inline-block;
+    position: left;
 }
 .headerImage .headerText {
     position: absolute;
