@@ -177,3 +177,18 @@ a:hover {
 a:active {
     background-color: #333;
 }
+/* -imageHeaderTextOverlay- */
+.headerImage {
+    position: relative;
+    display: inline-block;
+}
+.headerImage .headerText {
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;   /*adjust y axis*/
+    text-align: center;
+    width: 60%;     /*adjusts width*/
+}
