@@ -101,8 +101,10 @@ header{
     text-decoration: none;
 }
 .pagemenu li a:hover {
-    background-color: #000;
-    transition: all 0.5s;
+  color: #ff7a59;
+  border: #ff7a59 solid 1px;
+  background:#fff;
+}
 }
 .pagemenu li a:active {
     background-color: #000;
