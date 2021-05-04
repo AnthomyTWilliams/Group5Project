@@ -102,6 +102,7 @@ header{
 }
 .pagemenu li a:hover {
     background-color: #000;
+    transition: all 0.5s;
 }
 .pagemenu li a:active {
     background-color: #000;
