@@ -105,6 +105,7 @@ header{
   border: #ff7a59 solid 1px;
   background:#fff;
   transition: all 0.5s;
+   border-radius: 5px;
 }
 }
 .pagemenu li a:active {
