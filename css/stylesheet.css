@@ -1,9 +1,9 @@
 body {
     background-color: #FFFFFF ;
-    font-family:Verdana, Geneva, sans-serif;
     color: #fff ;
     font-size: 16px;
     line-height: 20px;
+    font-family: 'ABeeZee';font-size: 22px;
 }
 /* -pagelayout- */
 #wrapper {
