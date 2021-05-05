@@ -110,7 +110,6 @@ header{
     padding: 0;
     overflow: hidden;
     background-image: linear-gradient(black, grey);
-    opacity: 0.5;
 }
 .pagemenu li {
     float: left;
