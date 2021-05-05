@@ -72,7 +72,9 @@ header{
 }
 
 /*testing*/
-
+#transparent {
+   opacity: 0.5;
+}
 
 #myVideo {
   position: fixed;
