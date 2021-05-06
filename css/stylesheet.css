@@ -76,15 +76,6 @@ header{
 
 /* -transparency- */
 
-#transparent {
-    opacity: 0.5;
-}
-
-#headingtr ul {
-    opacity: 1;
-}
-
-
 /*Video Background*/
 
 #myVideo {
