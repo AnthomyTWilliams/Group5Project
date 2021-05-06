@@ -74,6 +74,17 @@ header{
     line-height: 5px;
 }
 
+/* -transparency- */
+
+#transparent #headingtr {
+    opacity: 1;
+}
+
+#transparent {
+    opacity: 0.5;
+}
+
+
 /*Video Background*/
 
 #myVideo {
