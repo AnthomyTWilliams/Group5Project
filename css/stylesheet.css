@@ -76,12 +76,12 @@ header{
 
 /* -transparency- */
 
-#transparent #headingtr {
-    opacity: 1;
-}
-
 #transparent {
     opacity: 0.5;
+}
+
+#headingtr h1 {
+    opacity: 1;
 }
 
 
