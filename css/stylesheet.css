@@ -102,7 +102,6 @@ header{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #000;
     position: fixed;
     top: 0;
     width: 100%;
@@ -113,7 +112,6 @@ header{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-image: linear-gradient(black, grey);
 }
 .pagemenu li {
     float: left;
