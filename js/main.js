@@ -1,4 +1,4 @@
-const pagemenu = document.querySelector('.pagemenu');
+const pagemenu = document.querySelector('.h1');
 const str = text.textContent;
 const splitText = strText.split("");
 text.textContent = "";
