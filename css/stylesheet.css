@@ -139,7 +139,7 @@ h1 {
     color: #fff;
     font-size: 30px;
     line-height: 30px;
-    opacity: 1;
+    z-index: 1;
 }
 h2 {
     font-family: Verdana, Geneva, sans-serif;
@@ -190,6 +190,7 @@ ol	{
 em	{
 }
 strong	{
+    z-index: 1;
 }
 /* -images- */
 figure	{
