@@ -71,17 +71,7 @@ header{
     line-height: 5px;
 }
 
-/*testing*/
-#transparent {
-   opacity: 0.5;
-}
-#transparent tr {
-    opacity: 1;
-}
-
-#headingtr {
-   opacity: 1;
-}
+/*Video Background*/
 
 #myVideo {
   position: fixed;
