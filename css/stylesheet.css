@@ -74,6 +74,11 @@ header{
     line-height: 5px;
 }
 
+/* -transparency- */
+#transparent {
+    opacity: 0.5;
+}
+
 /*Video Background*/
 
 #myVideo {
@@ -232,8 +237,4 @@ a:active {
     top: 65%;   /*adjust y axis*/
     text-align: left;
     width: 99%;     /*adjusts width*/
-}
-/* -transparency- */
-.transparent {
-    opacity: 0.5;
 }
