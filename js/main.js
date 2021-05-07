@@ -18,7 +18,6 @@ function onTick(){
     complete();
     return;
   }
-  )
   
   function(complete){
     clearInterval(timer);
