@@ -19,7 +19,7 @@ function onTick(){
     return;
   }
   
-  function(complete){
+  function (complete){
     clearInterval(timer);
     timer= null;
   }
